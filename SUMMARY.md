@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Vì sao tôi cùng con tiếp cận Lập trình từ sớm](README.md)
+* [Học lập trình từ 5 tuổi cùng ScratchJr](README.md)
 
 ## Tổng quan về ScratchJr
 
