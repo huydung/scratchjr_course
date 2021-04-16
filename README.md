@@ -6,11 +6,9 @@
 
 Lược dịch: 
 
-> _"Tôi rất tự hào khi được tham gia cùng các học sinh, giáo viên, doanh nghiệp, các tổ chức phi lợi nhuận trong những bước đi mới và lớn lao để hỗ trợ việc dạy và học Khoa học Máy tính trong các trường học ở Mỹ. Việc học những kiến thức không chỉ quan trọng đối với tương lai cá nhân của bạn, mà còn rất quan trọng đối với tương lai của đất nước chúng ta. Để nước Mỹ có thể tiếp tục là đầu tàu trong lĩnh vực công nghệ, chúng ta cần những người trẻ như các bạn trở thành chuyên gia trong những công cụ và công nghệ mới mà sẽ làm thay đổi hoàn toàn thế giới và cuộc sống của chúng ta. Đó là lí do tôi đề nghị tất cả các bạn hãy cùng tham gia vào công cuộc này. Đừng chỉ mua một trò chơi điện tử mới, hãy làm ra trò chơi của riêng mình. Đừng chỉ tải về một ứng dụng mới, hãy tham gia thiết kế chúng. Đừng chỉ chơi với điện thoại thông minh của bạn, hãy lập trình nó._
+_"Tôi rất tự hào khi được tham gia cùng các học sinh, giáo viên, doanh nghiệp, các tổ chức phi lợi nhuận trong những bước đi mới và lớn lao để hỗ trợ việc dạy và học Khoa học Máy tính trong các trường học ở Mỹ. Việc học những kiến thức không chỉ quan trọng đối với tương lai cá nhân của bạn, mà còn rất quan trọng đối với tương lai của đất nước chúng ta. Để nước Mỹ có thể tiếp tục là đầu tàu trong lĩnh vực công nghệ, chúng ta cần những người trẻ như các bạn trở thành chuyên gia trong những công cụ và công nghệ mới mà sẽ làm thay đổi hoàn toàn thế giới và cuộc sống của chúng ta. Đó là lí do tôi đề nghị tất cả các bạn hãy cùng tham gia vào công cuộc này. Đừng chỉ mua một trò chơi điện tử mới, hãy làm ra trò chơi của riêng mình. Đừng chỉ tải về một ứng dụng mới, hãy tham gia thiết kế chúng. Đừng chỉ chơi với điện thoại thông minh của bạn, hãy lập trình nó._
 
-\_\_
-
-
+_"_
 
 Nhưng, là bố mẹ, tại sao ? Vì lập trình là một công việc đang rất cần thiết và lương cao?
 
