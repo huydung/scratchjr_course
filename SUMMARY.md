@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Có nên cho trẻ học lập trình từ sớm?](README.md)
+* [Vì sao tôi cùng con tiếp cận Lập trình từ sớm](README.md)
 
 ## Tổng quan về ScratchJr
 
