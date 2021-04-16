@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Học lập trình từ 5 tuổi cùng ScratchJr](README.md)
+* [Bạn nên học lập trình cùng con ngay từ khi còn nhỏ](README.md)
 
 ## Tổng quan về ScratchJr
 

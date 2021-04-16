@@ -1,4 +1,4 @@
-# Học lập trình từ 5 tuổi cùng ScratchJr
+# Bạn nên học lập trình cùng con ngay từ khi còn nhỏ
 
 ### Toàn dân cần học lập trình vì tương lai cá nhân, tương lai đất nước!
 
