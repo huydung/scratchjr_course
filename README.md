@@ -1,4 +1,4 @@
-# Hãy học lập trình cùng con ngay từ khi còn nhỏ
+# Dạy lập trình để hướng-nghiệp, nên hay không?
 
 ### Toàn dân cần học lập trình vì tương lai cá nhân, tương lai đất nước!
 
@@ -20,9 +20,5 @@ Quay lại Việt Nam, đã có nhiều lời kêu gọi đưa Lập trình thà
 
 Nhưng nếu nói rằng làm chủ công nghệ là yêu cầu thiết yếu để sống và làm việc hiệu quả trong một thế giới công nghệ cao, rằng ngành lập trình/khoa học máy tính đang thiếu nhân lực trầm trọng, vân vân, thì tạm đủ xác đáng để dạy lập trình cho những người sắp hoặc đã đi làm. Cùng lắm, thì là các bạn sinh viên, cấp Trung học Phổ thông. Chứ còn tụi nhỏ tiểu học, mẫu giáo, học lập trình để hướng nghiệp nghe có vẻ sai sai? Còn tới 10, 15 nữa chúng mới đi làm, đến lúc đó thì tất cả những gì đang học hiện tại chẳng phải sẽ lỗi thời hết rồi hay sao? 10 năm nữa, chắc gì đã còn cần người làm web hay làm mobile apps, lúc đó AI tự làm hết được những thứ đó rồi. Thậm chí, những thứ đó chưa chắc đã còn _tồn tại_. Hơn nữa, là một _nghề_, lập trình chuyên nghiệp cũng đòi hỏi những năng lực, tính cách đặc thù mà không phải ai cũng có. Thì tại sao lại bảo _tất cả_ mọi người nên học nó? Nên với vai trò là bố, là mẹ, thay vì dạy một kĩ năng chuyên môn hẹp và thay đổi liên tục như Lập trình máy tính, nên chăng, chúng ta cần dành thời gian giúp con rèn luyện những kỹ năng thiết yếu hơn, nền tảng hơn, như: tinh thần ham học, khả năng cộng tác, năng lực sáng tạo, khả năng vượt khó, thì hơn?
 
-Các bạn ạ, đó chính xác là lí do tôi dạy lập trình cho con tôi từ khi nó 4 tuổi 🤞🏻.
-
-### Học lập trình để tư duy, sáng tạo, vượt khó, và trưởng thành
-
-\(to be continued\)
+Các bạn ạ, đó chính xác là lí do tôi dạy lập trình cho con tôi từ khi nó 4 tuổi 🤞. Không phải để sau này làm kĩ sư, lập trình viên, mà vì nó là phương tiện tuyệt vời để giúp con rèn luyện hàng loạt những kỹ năng mềm và phẩm chất cá nhân kể trên.
 

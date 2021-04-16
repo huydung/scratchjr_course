@@ -1,0 +1,12 @@
+# Trẻ học được gì khi học lập trình?
+
+Mỗi khi chúng ta học bất kỳ một điều gì - đàn piano hay lập trình - thực ra chúng ta đang học rất nhiều điều khác nhau mà \(author\) đã chia thành 3 nhóm như sau:
+
+1. Kiến thức / Kỹ năng Chuyên môn: Là những kỹ năng chi tiết, giải quyết trực tiếp vào công việc và nằm gọn trong lĩnh vực cụ thể đó. Khi học piano, đó là những kĩ năng như ấn vào đúng phím đàn, đúng thời điểm, đúng độ mạnh nhẹ cần thiết. Khi học lập trình, đó là kĩ năng chia nhỏ vấn đề, viết mã lệnh, tìm lỗi, sửa lỗi.
+2. Những kỹ năng nền tảng có thể áp dụng rộng: Là những kỹ năng mềm được trau dồi một cách gián tiếp thông qua việc rèn luyện nhóm kỹ năng chuyên môn. Khi học piano, ta không chỉ học chơi đàn mà còn rèn luyện sự phối hợp vận động tinh của bàn tay và trí não, khả năng cảm thụ âm nhạc. Khi học lập trình, ta rèn được tư duy logic, kỹ năng giải quyết vấn đề nói chung.
+3. Và cuối cùng là học Phẩm chất. Đây là những điều làm nên bản thể của mỗi con người. Những trải nghiệm khi học tập bất kỳ một điều gì đều góp phần khơi mở hoặc bồi đắp thêm những phẩm chất bền vững định hình nên tính cách chúng ta. Những người học Piano hẳn sẽ có sự kiên trì, nỗ lực, tâm hồn có chất "nghệ" hơn, rất khó diễn tả nhưng có thể nhận ra ngay. Những người học Lập trình và theo đuổi nó, thường sẽ có những phẩm chất như sự nỗ lực, không ngại thử-sai, tính chính xác và khúc chiết trong suy nghĩ.
+
+Đối với trẻ nhỏ, điều quan trọng _nhất_ không phải là nhóm kĩ năng chuyên môn \(1\), mà là xây dựng phẩm chất \(3\) và nhóm kĩ năng nền tảng \(2\). Điều trẻ cần là được thử sức với càng nhiều lĩnh vực càng tốt, bởi mỗi một lĩnh vực sẽ cấu thành nên một nhóm các phẩm chất và kĩ năng nền tảng khác nhau, được tiếp xúc càng nhiều sẽ càng giúp trẻ xây được một nền tàng rộng và vững chắc hơn. Để rồi trên cái nền đó, tự trẻ sẽ tìm ra những "chuyên môn" phù hợp với mình nhất để tiến xa hơn, sâu hơn. Không một ai có thể vừa làm họa sĩ, ca sĩ, giáo viên, vũ công, võ sư, vận động viên, phiên dịch viên, lập trình viên.... cùng một lúc cả. Nhưng trong cả tuổi thơ hàng chục năm của trẻ, trẻ hoàn toàn có thể và nên được tiếp xúc với tất cả những kĩ năng vẽ, ca hát, giảng giải, nhảy múa, võ thuật, chạy chơi, Tiếng Anh, và lập trình.
+
+Tất nhiên, vì thời gian và sức lực có hạn, sẽ tốt hơn khi chúng ta ưu tiên những bộ môn có khả năng xây dựng được nhiều nền tảng thiết yếu nhất, phải không. Và đấy chính là lí do tôi chọn Lập trình - ngoại trừ mảng Vận động ra, thì học Lập trình giúp trẻ rèn luyện được hàng loạt những kĩ năng mềm và phẩm chất cực kỳ quan trọng.
+
