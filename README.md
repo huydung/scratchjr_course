@@ -2,7 +2,7 @@
 
 ### Toàn dân cần học lập trình vì tương lai cá nhân, tương lai đất nước!
 
-Thập kỉ thứ 2 của Thế kỉ 21, thế giới phương Tây chứng kiến sự bùng nổ của phòng trào "toàn dân học lập trình. Các tổ chức dạy lập trình, khóa học lập trình mọc lên như nấm. Nhiều người nổi tiếng, từ những doanh nhân thành đạt trong lĩnh vực công nghệ như Bill Gates hay Steve Jobs, cho đến những người không liên quan đến công nghệ như siêu sao bóng rổ Steve Curry, hay siêu mẫu  Karlie Kross, đều phát biểu thúc giục rằng "tất cả mọi người đều nền học lập trình". Hãy thử lắng nghe [bài phát biểu ngắn này của Obama](https://www.youtube.com/watch?v=6XvmhE1J9PY) hướng tới tất cả học sinh sinh viên Mỹ trong Tuần lễ khoa học máy tính năm 2013.
+Thập kỉ thứ 2 của thế kỉ 21, thế giới phương Tây chứng kiến sự bùng nổ của phong trào "toàn dân học lập trình". Các tổ chức dạy lập trình, khóa học lập trình mọc lên như nấm. Nhiều người nổi tiếng, từ những doanh nhân thành đạt trong lĩnh vực công nghệ như Bill Gates hay Steve Jobs, cho đến những người không liên quan đến công nghệ như siêu sao bóng rổ Steve Curry, hay siêu mẫu  Karlie Kross, đều phát biểu thúc giục rằng "tất cả mọi người đều nền học lập trình". Hãy thử lắng nghe [bài phát biểu ngắn này của Obama](https://www.youtube.com/watch?v=6XvmhE1J9PY) hướng tới tất cả học sinh sinh viên Mỹ trong Tuần lễ khoa học máy tính năm 2013.
 
 {% embed url="https://www.youtube.com/watch?v=6XvmhE1J9PY" %}
 
