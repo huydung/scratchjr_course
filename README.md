@@ -1,4 +1,4 @@
-# Bạn nên học lập trình cùng con ngay từ khi còn nhỏ
+# Hãy học lập trình cùng con ngay từ khi còn nhỏ
 
 ### Toàn dân cần học lập trình vì tương lai cá nhân, tương lai đất nước!
 

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Bạn nên học lập trình cùng con ngay từ khi còn nhỏ](README.md)
+* [Hãy học lập trình cùng con ngay từ khi còn nhỏ](README.md)
 
 ## Tổng quan về ScratchJr
 
