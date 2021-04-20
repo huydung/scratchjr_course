@@ -1,7 +1,11 @@
 # Table of contents
 
 * [Dạy lập trình để hướng-nghiệp, nên hay không?](README.md)
-* [Trẻ học được gì khi học lập trình?](tre-hoc-duoc-gi-khi-hoc-lap-trinh.md)
+
+## Học lập trình cùng con - Hiểu đúng, làm đúng
+
+* [Cùng con học lập trình với Scratch Jr.](hoc-lap-trinh-cung-con-hieu-dung-lam-dung/tre-hoc-duoc-gi-khi-hoc-lap-trinh.md)
+* [Untitled](hoc-lap-trinh-cung-con-hieu-dung-lam-dung/untitled.md)
 
 ## Tổng quan về ScratchJr
 
