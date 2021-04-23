@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Dạy lập trình để hướng-nghiệp, nên hay không?](README.md)
+* [Lập trình và Sáng tạo cùng con từ khi 5 tuổi](README.md)
 
 ## Học lập trình cùng con - Hiểu đúng, làm đúng
 
